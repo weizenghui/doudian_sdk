@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wuwei\\doudian\\": "src"
+            "Wuwei\\Doudian\\": "src"
         }
     },
     "require-dev": {
